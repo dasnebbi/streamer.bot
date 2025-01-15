@@ -85,7 +85,7 @@ The command will remove a user from the group.
 #delso @dasnebbi
 ```
 
-## Customizing Shoutout- or Raid messages
+## Customizing chat messages for Shoutouts or Raids
 
 Chat messages that are sent by Streamer.bot in order to perform an auto-shoutout are to be found inside the following actions:
 
