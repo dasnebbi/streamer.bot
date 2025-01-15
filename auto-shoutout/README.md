@@ -1,6 +1,6 @@
 # Nebusters Auto-Shoutout
 
-The NAS contains of several actions, commands and queues in order to work correctly.
+This snippet for Streamer.Bot contains of several actions, commands and queues in order to implement a auto-shoutout functionality.
 
 ## Installation
 
