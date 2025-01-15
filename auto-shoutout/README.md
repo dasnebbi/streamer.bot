@@ -6,9 +6,9 @@ The NAS contains of several actions, commands and queues in order to work correc
 
 1. Download [Streamer.bot](https://streamer.bot/)
 2. Ensure that you're connected to your Twitch broadcaster account (see [Documentation](https://docs.streamer.bot/guide/platforms/twitch#accounts))
-3. Copy or download the [export.sb](export.sb) file from this repository.
+3. Copy or download the [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb) file from this repository.
 4. Open the "Import" dialogue in Streamer.bot (see [Documentation](https://docs.streamer.bot/guide/import-export#import)
-5. Drag [export.sb](export.sb) over the field "Import string" or paste the contents of the file to that field.
+5. Drag the downloaded [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb) over the field "Import string" or paste the contents of the file to that field.
 6. Click "Import" on the lower, right bottom side of the dialogue.
 7. Close the "Import" dialogue if necessary.
 8. **DO NOT** activate actions, queues or commands manually.
