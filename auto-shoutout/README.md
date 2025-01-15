@@ -6,16 +6,16 @@ The NAS contains of several actions, commands and queues in order to work correc
 
 1. Download [Streamer.bot](https://streamer.bot/)
 2. Ensure that you're connected to your Twitch broadcaster account (see [Documentation](https://docs.streamer.bot/guide/platforms/twitch#accounts))
-3. Copy or download the [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb) file from this repository.
+3. Copy or download the [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb).
 4. Open the "Import" dialogue in Streamer.bot (see [Documentation](https://docs.streamer.bot/guide/import-export#import)
-5. Drag the downloaded [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb) over the field "Import string" or paste the contents of the file to that field.
+5. Drag the downloaded [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb) over the field "Import string" or paste its contents to that field.
 6. Click "Import" on the lower, right bottom side of the dialogue.
 7. Close the "Import" dialogue if necessary.
 8. **DO NOT** activate actions, queues or commands manually.
 9. Navigate to "Actions".
-10. Ensure the Group "*Nebusters Auto-Shoutout - Setup*" is expanded.
+10. Ensure the Group "*Nebusters Auto-Shoutout - Setup*" is expanded. If not, expand it by right-clicking on the group and selecting "*Expand All*".
 11. Click on the action "*[SO] Setup*".
-12. Right-click on the Test-Trigger and click on "*Test Trigger*".
+12. Do a right-click on the Test-Trigger and click "*Test Trigger*".
 13. All actions except "*[SO] Setup*" should now be activated.
 14. You **COULD** delete "*[SO] Setup*" now, but I'd recommend to keep it.
 
