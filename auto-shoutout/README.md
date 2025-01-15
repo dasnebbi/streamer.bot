@@ -13,7 +13,7 @@ This snippet for Streamer.Bot contains of several actions, commands and queues i
 7. Close the "Import" dialogue if necessary.
 8. **DO NOT** activate actions, queues or commands manually.
 9. Navigate to "Actions".
-10. Ensure the Group "*Nebusters Auto-Shoutout - Setup*" is expanded. If not, expand it by right-clicking on the group and selecting "*Expand All*".
+10. Ensure the Group "*Nebusters Auto-Shoutout - Setup*" is expanded. If it is not, expand it by right-clicking on the group and selecting "*Expand All*".
 11. Click on the action "*[SO] Setup*".
 12. Do a right-click on the Test-Trigger and click "*Test Trigger*".
 13. All actions except "*[SO] Setup*" should now be activated.
