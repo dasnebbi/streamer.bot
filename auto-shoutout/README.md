@@ -99,7 +99,7 @@ Variables (see [Documentation](https://docs.streamer.bot/guide/variables)) may'v
 The sub-action "*Execute Code*" contains three messages:
 ```cs
   CPH.SendMessage($"/me Advertising for my own channel? Embarrassing, dude.");
-  CPH.SendMessage($"/me Go watch {user} over at https://twitch.tv/{user} where they were last streaming {game}. It's pretty fun to watch as well!");
+  CPH.SendMessage($"/me Go watch {user} over at https://twitch.tv/{user} where they were last streaming {game}. They're pretty fun to watch as well!");
   CPH.SendMessage($"/me {custom} https://twitch.tv/{user}");
 ```
 
