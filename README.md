@@ -8,7 +8,7 @@ This snippet for Streamer.Bot contains of several actions, commands and queues i
 2. Ensure that Streamer.bot is connected to your Twitch broadcaster account (see [Documentation](https://docs.streamer.bot/guide/platforms/twitch#accounts))
 3. Ensure that Streamer.bot is connected with OBS Studio (see [Documentation](https://docs.streamer.bot/guide/broadcasters/obs-studio)).
 4. Copy or download the [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/auto-shoutout/export.sb).
-5. Open the "Import" dialogue in Streamer.bot (see [Documentation](https://docs.streamer.bot/guide/import-export#import)
+5. Open the "Import" dialogue in Streamer.bot (see [Documentation](https://docs.streamer.bot/guide/import-export#import)).
 6. Drag the downloaded [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/auto-shoutout/export.sb) over the field "Import string" or paste its contents to that field.
 7. Click "Import" on the lower, right bottom side of the dialogue.
 8. Close the "Import" dialogue if necessary.
