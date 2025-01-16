@@ -6,15 +6,16 @@ This snippet for Streamer.Bot contains of several actions, commands and queues i
 
 1. Download [Streamer.bot](https://streamer.bot/)
 2. Ensure that you're connected to your Twitch broadcaster account (see [Documentation](https://docs.streamer.bot/guide/platforms/twitch#accounts))
-3. Copy or download the [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb).
-4. Open the "Import" dialogue in Streamer.bot (see [Documentation](https://docs.streamer.bot/guide/import-export#import)
-5. Drag the downloaded [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb) over the field "Import string" or paste its contents to that field.
-6. Click "Import" on the lower, right bottom side of the dialogue.
-7. Close the "Import" dialogue if necessary.
-8. **DO NOT** activate actions, queues or commands manually.
-9. Navigate to "Actions".
-10. Ensure the Group "*Nebusters Auto-Shoutout - Setup*" is expanded. If it is not, expand it by right-clicking on the group and selecting "*Expand All*".
-11. Click on the action "*[SO] Setup*" and navigate to the actions Tiggers.
+3. Ensure that Streamer.bot is connected with OBS Studio (see [Documentation](https://docs.streamer.bot/guide/broadcasters/obs-studio)).
+4. Copy or download the [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb).
+5. Open the "Import" dialogue in Streamer.bot (see [Documentation](https://docs.streamer.bot/guide/import-export#import)
+6. Drag the downloaded [export.sb](https://raw.githubusercontent.com/dasnebbi/streamer.bot/refs/heads/master/auto-shoutout/export.sb) over the field "Import string" or paste its contents to that field.
+7. Click "Import" on the lower, right bottom side of the dialogue.
+8. Close the "Import" dialogue if necessary.
+9. **DO NOT** activate actions, queues or commands manually.
+10. Navigate to "Actions".
+11. Ensure the Group "*Nebusters Auto-Shoutout - Setup*" is expanded. If it is not, expand it by right-clicking on the group and selecting "*Expand All*".
+12. Click on the action "*[SO] Setup*" and navigate to the actions Tiggers.
 13. Do a right-click on the Test-Trigger and click "*Test Trigger*".
 14. All actions except "*[SO] Setup*" should now be activated.
 15. You **COULD** delete "*[SO] Setup*" now, but I'd recommend to keep it.
