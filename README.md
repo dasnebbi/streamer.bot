@@ -17,7 +17,7 @@ This snippet for Streamer.Bot contains of several actions, commands and queues i
 11. Ensure the Group "*Nebusters Auto-Shoutout - Setup*" is expanded. If it is not, expand it by right-clicking on the group and selecting "*Expand All*".
 12. Click on the action "*[SO] Setup*" and navigate to the actions Tiggers.
 13. Do a right-click on the Test-Trigger and click "*Test Trigger*".
-14. All actions except "*[SO] Setup*" should now be activated.
+14. All actions except "*[SO] Setup*" and "*[SO] Welcome Message SO 1.0*" should now be activated. The latter will  be activated automatically as soon as you start streaming (see Action "*[SO] Stream started*").
 15. You **COULD** delete "*[SO] Setup*" now, but I'd recommend to keep it.
 
 ## Commands
